@@ -5,12 +5,6 @@
 - 👀 I’m  a passionate **Software Engineer** 
 - 🌱 I’m currently learning at **ENSEM**
 - 💞️ I’m looking to collaborate on defferent project
-  <!--
-
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
 
 ## 🛠️ Technologies & Tools
 - Languages: `JavaScript`, `Python`, `C++`
