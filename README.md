@@ -11,7 +11,10 @@
 - Frameworks: `Node.js`, `Express.js`, `React`, `Bootstrap`
 - Databases: `MongoDB`, `MySQL`
 - Tools: `Git`, `Postman`
+ <!--
+
 - Cloud: `AWS`
+  -->
 
 ## 🔥 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elazharysalah&show_icons=true&theme=radical)
