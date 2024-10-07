@@ -20,8 +20,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elazharysalah&layout=compact&theme=radical)
 
 ## 🌐 Connect With Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/i)
-- Email: [YourEmail@example.com](mailto:elazhary.salah.etu23@ensem.ac.ma)
+- LinkedIn: [my profile](https://www.linkedin.com/in/salah-eddine-el-azhary-647929310)
+- Email:[contact me](mailto:elazhary.salah.etu23@ensem.ac.ma)
 
 <!---
 elazharysalah/elazharysalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
