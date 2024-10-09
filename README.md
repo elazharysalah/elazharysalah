@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salah eddine El-azhary
 
-[![Profile Views](https://komarev.com/ghpvc/?username=elazharysalah&color=blue)](https://github.com/your-github-username)
+[![Profile Views](https://komarev.com/ghpvc/?username=elazharysalah&color=blue)](https://github.com/elazharysalah)
 
 - 👀 I’m  a passionate **Software Engineer** 
 - 🌱 I’m currently learning at **ENSEM**
