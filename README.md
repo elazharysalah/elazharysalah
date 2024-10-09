@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on defferent project
 
 ## 🛠️ Technologies & Tools
-- Languages: `JavaScript`, `Python`, `C++`
+- Languages: `JavaScript`, `Python`, `C++` , `C`,`PHP`
 - Frameworks: `Node.js`, `Express.js`, `React`, `Bootstrap`
 - Databases: `MongoDB`, `MySQL`
 - Tools: `Git`, `Postman`
