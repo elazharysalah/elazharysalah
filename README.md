@@ -24,17 +24,8 @@
 - AWS Certified Developer – Associate *(in progress)*
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats0-blond.vercel.app/api?username=elazharysalah&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<p align="left">
   <img height="170" src="https://github-readme-stats0-blond.vercel.app/api/top-langs/?username=elazharysalah&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elazharysalah&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elazharysalah/elazharysalah/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ## 🌐 Connect With Me
