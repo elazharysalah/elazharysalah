@@ -24,8 +24,7 @@
 - AWS Certified Developer – Associate *(in progress)*
 
 ## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elazharysalah&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats0-blond.vercel.app/api/top-langs/?username=elazharysalah&layout=compact&theme=radical)
 ## 🌐 Connect With Me
 - LinkedIn: [Salah Eddine El-Azhary](https://www.linkedin.com/in/salah-eddine-el-azhary-647929310)
 - Website: [elazharysalah.com](https://elazharysalah.com)
